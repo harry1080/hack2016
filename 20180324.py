@@ -7,7 +7,7 @@
 import sys
 
 
-
+# 在num处定义需要判断的数字
 num = 131
 
 num_p = 0
